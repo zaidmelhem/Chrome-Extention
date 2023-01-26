@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    padding: 10px;
+}
+input{
+    width: 100%;
+    margin-bottom: 5px;
+    height: 20px;
+    padding-left: 5px;
+}
+button {
+    background: #14afa2;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #14afa2;
+    font-weight: bold;
+}
+
+#delete-btn {
+    background: white;
+    color: #14afa2;
+}
+#delete-btn:hover{
+    background: #14afa2;
+    color: white ;
+}
+
+ul {
+    margin-top: 18px;
+    list-style: none;
+}
+
+a {
+    color: #14afa2;
+    text-decoration: none;
+}
